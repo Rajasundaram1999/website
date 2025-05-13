@@ -1,0 +1,38 @@
+[
+  {
+    "name": "TruckerGiG",
+    "desc": "We Make Logistics Seamless",
+    "image": "tr",
+   
+    "links": {
+      "view": "https://www.truckergig.com/"
+    }  
+  },
+  {
+    "name": "Laulama",
+    "desc": "Empowering Schools & Students",
+    "image": "Lau",
+    
+    "links": {
+      "view": "https://www.laulamaschools.com/"
+    }
+  },
+  {
+    "name": "Tiipstr",
+    "desc": "tiipstr is about providing transparency and truth to social media.",
+    "image": "Tip",
+   
+    "links": {
+      "view": "https://tiipstr.app/login"
+    }
+  },
+  {
+    "name": "Startup2Launch",
+    "desc": "Empowering the Next Generation of Entrepreneurs",
+    "image": "Start",
+  
+    "links": {
+      "view": "https://startup2launch.com/"
+    }
+  }
+]
