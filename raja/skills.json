@@ -1,0 +1,38 @@
+[
+{
+  "name": "Git",
+  "icon": "https://img.icons8.com/color/48/000000/git.png"
+},
+{
+  "name": "Jenkins",
+  "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
+},
+{
+  "name": "Docker",
+  "icon": "https://img.icons8.com/color/48/000000/docker.png"
+},
+{
+  "name": "Ansible",
+  "icon": "https://img.icons8.com/color/48/000000/ansible.png"
+},
+{
+  "name": "Terraform",
+  "icon": "https://img.icons8.com/color/48/000000/terraform.png"
+},
+{
+  "name": "SaltStack",
+  "icon": "https://img.icons8.com/ios-filled/50/000000/salt.png"
+},
+{
+  "name": "AWS",
+  "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+},{
+  "name": "Vercel",
+  "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-vercel-a-cloud-platform-for-static-sites-and-serverless-functions-logo-color-tal-revivo.png"
+}
+
+
+
+
+ 
+]
